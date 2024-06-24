@@ -1,6 +1,6 @@
 ---
 title: Welcome to Gweek
-date：2024-06-24
+date: 2024-06-24 00:00:00+0000
 description: Welcome to my blog
 tags: 
     - markdown
