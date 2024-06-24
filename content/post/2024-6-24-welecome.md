@@ -1,5 +1,6 @@
 ---
 title: Welcome to Gweek
+date：2024-06-24
 description: Welcome to my blog
 tags: 
     - markdown
