@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://gweek.myla.eu.org/hugo-stack"
+baseurl = "https://soslane.myla.eu.org"
 languageCode = "en-us"
 paginate = 5
 title = "Gweek"
